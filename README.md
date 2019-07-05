@@ -3,6 +3,11 @@ visual Studio Code git test(使用测试)
 
 VSCode 使用git进行版本管理，测试demo。
 
+## VSCode使用终端
+
+1. 使用快捷键： ctrl + ·     即可；注意那个点是键盘上 esc 下面的那个
+2. 选择vscode的 “查看”，然后选择“集成终端” 
+
 ## 添加本地忽略文件.gitignore
 
 [.gitignore忽略规则的匹配语法参考](https://www.cnblogs.com/kevingrace/p/5690241.html)
